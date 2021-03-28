@@ -1,0 +1,6026 @@
+[
+  {
+    "ID": 27562,
+    "NAME": "ФБЭБС-61",
+    "COURSE_NUM": 5,
+    "SPECIALITY_ID": 1741,
+    "ID_FACULTET": 2,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 27563,
+    "NAME": "ФБЭБС-62",
+    "COURSE_NUM": 5,
+    "SPECIALITY_ID": 1741,
+    "ID_FACULTET": 2,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 27577,
+    "NAME": "ВзФБ-602",
+    "COURSE_NUM": 5,
+    "SPECIALITY_ID": 10000014,
+    "ID_FACULTET": 2,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 27603,
+    "NAME": "АБс-623",
+    "COURSE_NUM": 5,
+    "SPECIALITY_ID": 10000137,
+    "ID_FACULTET": 3,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 27629,
+    "NAME": "МА-61",
+    "COURSE_NUM": 5,
+    "SPECIALITY_ID": 10000062,
+    "ID_FACULTET": 6,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 27632,
+    "NAME": "ГС-61",
+    "COURSE_NUM": 5,
+    "SPECIALITY_ID": 10000159,
+    "ID_FACULTET": 6,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 27634,
+    "NAME": "МВ-61",
+    "COURSE_NUM": 5,
+    "SPECIALITY_ID": 10000062,
+    "ID_FACULTET": 6,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 27646,
+    "NAME": "ФК-61",
+    "COURSE_NUM": 5,
+    "SPECIALITY_ID": 10000067,
+    "ID_FACULTET": 8,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 27683,
+    "NAME": "ЭТз-61",
+    "COURSE_NUM": 5,
+    "SPECIALITY_ID": 10000020,
+    "ID_FACULTET": 9,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 27684,
+    "NAME": "ЭЭз-61",
+    "COURSE_NUM": 5,
+    "SPECIALITY_ID": 10000021,
+    "ID_FACULTET": 9,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 27685,
+    "NAME": "ЭБз-61",
+    "COURSE_NUM": 5,
+    "SPECIALITY_ID": 10000055,
+    "ID_FACULTET": 9,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 27829,
+    "NAME": "ИЗ-61",
+    "COURSE_NUM": 5,
+    "SPECIALITY_ID": 2004,
+    "ID_FACULTET": 21,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 28810,
+    "NAME": "ЭЭз-62",
+    "COURSE_NUM": 5,
+    "SPECIALITY_ID": 10000021,
+    "ID_FACULTET": 9,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 29000,
+    "NAME": "ФББ-71",
+    "COURSE_NUM": 4,
+    "SPECIALITY_ID": 10000015,
+    "ID_FACULTET": 2,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 29001,
+    "NAME": "ФББ-72",
+    "COURSE_NUM": 4,
+    "SPECIALITY_ID": 10000015,
+    "ID_FACULTET": 2,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 29004,
+    "NAME": "ФБЭ-71",
+    "COURSE_NUM": 4,
+    "SPECIALITY_ID": 10000013,
+    "ID_FACULTET": 2,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 29006,
+    "NAME": "ФБЭ-73",
+    "COURSE_NUM": 4,
+    "SPECIALITY_ID": 10000013,
+    "ID_FACULTET": 2,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 29007,
+    "NAME": "ФБЭ-74",
+    "COURSE_NUM": 4,
+    "SPECIALITY_ID": 10000013,
+    "ID_FACULTET": 2,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 29008,
+    "NAME": "ФБ-73",
+    "COURSE_NUM": 4,
+    "SPECIALITY_ID": 10000014,
+    "ID_FACULTET": 2,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 29011,
+    "NAME": "ФБ-71",
+    "COURSE_NUM": 4,
+    "SPECIALITY_ID": 10000014,
+    "ID_FACULTET": 2,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 29012,
+    "NAME": "ФБ-72",
+    "COURSE_NUM": 4,
+    "SPECIALITY_ID": 10000014,
+    "ID_FACULTET": 2,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 29013,
+    "NAME": "ФБ-74",
+    "COURSE_NUM": 4,
+    "SPECIALITY_ID": 10000014,
+    "ID_FACULTET": 2,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 29014,
+    "NAME": "ФБЭБС-71",
+    "COURSE_NUM": 4,
+    "SPECIALITY_ID": 1741,
+    "ID_FACULTET": 2,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 29015,
+    "NAME": "ФБЭБС-72",
+    "COURSE_NUM": 4,
+    "SPECIALITY_ID": 1741,
+    "ID_FACULTET": 2,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 29033,
+    "NAME": "СЭ-71",
+    "COURSE_NUM": 4,
+    "SPECIALITY_ID": 10000055,
+    "ID_FACULTET": 6,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 29034,
+    "NAME": "ТС-71",
+    "COURSE_NUM": 4,
+    "SPECIALITY_ID": 10000045,
+    "ID_FACULTET": 6,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 29035,
+    "NAME": "ПС-71",
+    "COURSE_NUM": 4,
+    "SPECIALITY_ID": 10000025,
+    "ID_FACULTET": 6,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 29036,
+    "NAME": "СА-71",
+    "COURSE_NUM": 4,
+    "SPECIALITY_ID": 10000029,
+    "ID_FACULTET": 6,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 29037,
+    "NAME": "СД-71",
+    "COURSE_NUM": 4,
+    "SPECIALITY_ID": 10000132,
+    "ID_FACULTET": 6,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 29038,
+    "NAME": "С-71",
+    "COURSE_NUM": 4,
+    "SPECIALITY_ID": 10000028,
+    "ID_FACULTET": 6,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 29039,
+    "NAME": "МА-71",
+    "COURSE_NUM": 4,
+    "SPECIALITY_ID": 10000062,
+    "ID_FACULTET": 6,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 29041,
+    "NAME": "МБ-71",
+    "COURSE_NUM": 4,
+    "SPECIALITY_ID": 10000055,
+    "ID_FACULTET": 6,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 29042,
+    "NAME": "ГС-71",
+    "COURSE_NUM": 4,
+    "SPECIALITY_ID": 10000159,
+    "ID_FACULTET": 6,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 29044,
+    "NAME": "МВ-71",
+    "COURSE_NUM": 4,
+    "SPECIALITY_ID": 10000062,
+    "ID_FACULTET": 6,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 29045,
+    "NAME": "ЭП-71",
+    "COURSE_NUM": 4,
+    "SPECIALITY_ID": 10000134,
+    "ID_FACULTET": 6,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 29053,
+    "NAME": "С-72",
+    "COURSE_NUM": 4,
+    "SPECIALITY_ID": 10000028,
+    "ID_FACULTET": 6,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 29055,
+    "NAME": "МР-71",
+    "COURSE_NUM": 4,
+    "SPECIALITY_ID": 10000039,
+    "ID_FACULTET": 6,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 29069,
+    "NAME": "ЭМ-73",
+    "COURSE_NUM": 4,
+    "SPECIALITY_ID": 10000021,
+    "ID_FACULTET": 1,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 29075,
+    "NAME": "ЭМ-77",
+    "COURSE_NUM": 4,
+    "SPECIALITY_ID": 10000021,
+    "ID_FACULTET": 1,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 29076,
+    "NAME": "ЭМ-72",
+    "COURSE_NUM": 4,
+    "SPECIALITY_ID": 10000021,
+    "ID_FACULTET": 1,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 29078,
+    "NAME": "ЭМ-75",
+    "COURSE_NUM": 4,
+    "SPECIALITY_ID": 10000021,
+    "ID_FACULTET": 1,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 29079,
+    "NAME": "ЭМ-76",
+    "COURSE_NUM": 4,
+    "SPECIALITY_ID": 10000021,
+    "ID_FACULTET": 1,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 29080,
+    "NAME": "ЭМА-72",
+    "COURSE_NUM": 4,
+    "SPECIALITY_ID": 10000040,
+    "ID_FACULTET": 1,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 29084,
+    "NAME": "ЭМА-71",
+    "COURSE_NUM": 4,
+    "SPECIALITY_ID": 10000040,
+    "ID_FACULTET": 1,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 29159,
+    "NAME": "ЭН1-72",
+    "COURSE_NUM": 4,
+    "SPECIALITY_ID": 10000021,
+    "ID_FACULTET": 9,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 29161,
+    "NAME": "ТЭ-71",
+    "COURSE_NUM": 4,
+    "SPECIALITY_ID": 10000020,
+    "ID_FACULTET": 9,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 29164,
+    "NAME": "ЭнБ-71",
+    "COURSE_NUM": 4,
+    "SPECIALITY_ID": 10000055,
+    "ID_FACULTET": 9,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 29165,
+    "NAME": "ЭН1-71",
+    "COURSE_NUM": 4,
+    "SPECIALITY_ID": 10000021,
+    "ID_FACULTET": 9,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 29166,
+    "NAME": "ЭН1-73",
+    "COURSE_NUM": 4,
+    "SPECIALITY_ID": 10000021,
+    "ID_FACULTET": 9,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 29167,
+    "NAME": "ЭН2-71",
+    "COURSE_NUM": 4,
+    "SPECIALITY_ID": 10000021,
+    "ID_FACULTET": 9,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 29168,
+    "NAME": "ЭН2-72",
+    "COURSE_NUM": 4,
+    "SPECIALITY_ID": 10000021,
+    "ID_FACULTET": 9,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 29169,
+    "NAME": "ЭН2-73",
+    "COURSE_NUM": 4,
+    "SPECIALITY_ID": 10000021,
+    "ID_FACULTET": 9,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 29219,
+    "NAME": "РП4-71",
+    "COURSE_NUM": 4,
+    "SPECIALITY_ID": 10000035,
+    "ID_FACULTET": 4,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 29221,
+    "NAME": "РТ5-71",
+    "COURSE_NUM": 4,
+    "SPECIALITY_ID": 10000036,
+    "ID_FACULTET": 4,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 29222,
+    "NAME": "РК6-71",
+    "COURSE_NUM": 4,
+    "SPECIALITY_ID": 10000038,
+    "ID_FACULTET": 4,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 29223,
+    "NAME": "РТС9-71",
+    "COURSE_NUM": 4,
+    "SPECIALITY_ID": 10000037,
+    "ID_FACULTET": 4,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 29225,
+    "NAME": "РКС10-71",
+    "COURSE_NUM": 4,
+    "SPECIALITY_ID": 10000037,
+    "ID_FACULTET": 4,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 29226,
+    "NAME": "РНТ1-71",
+    "COURSE_NUM": 4,
+    "SPECIALITY_ID": 10000044,
+    "ID_FACULTET": 4,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 29227,
+    "NAME": "РМС7-71",
+    "COURSE_NUM": 4,
+    "SPECIALITY_ID": 10000044,
+    "ID_FACULTET": 4,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 29228,
+    "NAME": "РЭН2-71",
+    "COURSE_NUM": 4,
+    "SPECIALITY_ID": 10000035,
+    "ID_FACULTET": 4,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 29231,
+    "NAME": "РЭ3-71",
+    "COURSE_NUM": 4,
+    "SPECIALITY_ID": 10000035,
+    "ID_FACULTET": 4,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 29232,
+    "NAME": "РТВ14-71",
+    "COURSE_NUM": 4,
+    "SPECIALITY_ID": 10000037,
+    "ID_FACULTET": 4,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 29235,
+    "NAME": "РТ5-72",
+    "COURSE_NUM": 4,
+    "SPECIALITY_ID": 10000036,
+    "ID_FACULTET": 4,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 29249,
+    "NAME": "ФК-71",
+    "COURSE_NUM": 4,
+    "SPECIALITY_ID": 10000067,
+    "ID_FACULTET": 8,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 29250,
+    "NAME": "ФО-71",
+    "COURSE_NUM": 4,
+    "SPECIALITY_ID": 10000032,
+    "ID_FACULTET": 8,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 29251,
+    "NAME": "ФЛ-71",
+    "COURSE_NUM": 4,
+    "SPECIALITY_ID": 10000033,
+    "ID_FACULTET": 8,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 29252,
+    "NAME": "ФТ-71",
+    "COURSE_NUM": 4,
+    "SPECIALITY_ID": 10000005,
+    "ID_FACULTET": 8,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 29253,
+    "NAME": "ФФ-71",
+    "COURSE_NUM": 4,
+    "SPECIALITY_ID": 10000056,
+    "ID_FACULTET": 8,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 29254,
+    "NAME": "ФГ-71",
+    "COURSE_NUM": 4,
+    "SPECIALITY_ID": 10000045,
+    "ID_FACULTET": 8,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 29269,
+    "NAME": "ИЯ-75",
+    "COURSE_NUM": 4,
+    "SPECIALITY_ID": 10000057,
+    "ID_FACULTET": 10,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 29275,
+    "NAME": "СЛ-71",
+    "COURSE_NUM": 4,
+    "SPECIALITY_ID": 10000011,
+    "ID_FACULTET": 10,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 29276,
+    "NAME": "П-71",
+    "COURSE_NUM": 4,
+    "SPECIALITY_ID": 10000006,
+    "ID_FACULTET": 10,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 29277,
+    "NAME": "РГ-71",
+    "COURSE_NUM": 4,
+    "SPECIALITY_ID": 10000009,
+    "ID_FACULTET": 10,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 29278,
+    "NAME": "РГ-72",
+    "COURSE_NUM": 4,
+    "SPECIALITY_ID": 10000009,
+    "ID_FACULTET": 10,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 29279,
+    "NAME": "РГ-73",
+    "COURSE_NUM": 4,
+    "SPECIALITY_ID": 10000009,
+    "ID_FACULTET": 10,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 29280,
+    "NAME": "ИЯ-71",
+    "COURSE_NUM": 4,
+    "SPECIALITY_ID": 10000057,
+    "ID_FACULTET": 10,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 29284,
+    "NAME": "Ф-71",
+    "COURSE_NUM": 4,
+    "SPECIALITY_ID": 10000010,
+    "ID_FACULTET": 10,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 29293,
+    "NAME": "ИЯ-73",
+    "COURSE_NUM": 4,
+    "SPECIALITY_ID": 10000057,
+    "ID_FACULTET": 10,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 29295,
+    "NAME": "РГ-75",
+    "COURSE_NUM": 4,
+    "SPECIALITY_ID": 10000009,
+    "ID_FACULTET": 10,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 29311,
+    "NAME": "ПМИ-71",
+    "COURSE_NUM": 4,
+    "SPECIALITY_ID": 10000003,
+    "ID_FACULTET": 7,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 29313,
+    "NAME": "ПМ-72",
+    "COURSE_NUM": 4,
+    "SPECIALITY_ID": 10000002,
+    "ID_FACULTET": 7,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 29314,
+    "NAME": "ПМ-71",
+    "COURSE_NUM": 4,
+    "SPECIALITY_ID": 10000002,
+    "ID_FACULTET": 7,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 29316,
+    "NAME": "ПМ-73",
+    "COURSE_NUM": 4,
+    "SPECIALITY_ID": 10000002,
+    "ID_FACULTET": 7,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 29329,
+    "NAME": "И-72",
+    "COURSE_NUM": 4,
+    "SPECIALITY_ID": 2004,
+    "ID_FACULTET": 21,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 29330,
+    "NAME": "ВИ-71",
+    "COURSE_NUM": 4,
+    "SPECIALITY_ID": 10000046,
+    "ID_FACULTET": 21,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 29332,
+    "NAME": "И-71",
+    "COURSE_NUM": 4,
+    "SPECIALITY_ID": 2004,
+    "ID_FACULTET": 21,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 29333,
+    "NAME": "Д-75",
+    "COURSE_NUM": 4,
+    "SPECIALITY_ID": 1662,
+    "ID_FACULTET": 21,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 29334,
+    "NAME": "АФ-71",
+    "COURSE_NUM": 4,
+    "SPECIALITY_ID": 1666,
+    "ID_FACULTET": 21,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 29335,
+    "NAME": "П-71",
+    "COURSE_NUM": 4,
+    "SPECIALITY_ID": 100003,
+    "ID_FACULTET": 21,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 29336,
+    "NAME": "КН-71",
+    "COURSE_NUM": 4,
+    "SPECIALITY_ID": 10000069,
+    "ID_FACULTET": 21,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 29339,
+    "NAME": "СР-71",
+    "COURSE_NUM": 4,
+    "SPECIALITY_ID": 10000012,
+    "ID_FACULTET": 21,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 29345,
+    "NAME": "КМ-701",
+    "COURSE_NUM": 4,
+    "SPECIALITY_ID": 10000026,
+    "ID_FACULTET": 5,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 29347,
+    "NAME": "ММ-701",
+    "COURSE_NUM": 4,
+    "SPECIALITY_ID": 10000022,
+    "ID_FACULTET": 5,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 29350,
+    "NAME": "ТМ-701",
+    "COURSE_NUM": 4,
+    "SPECIALITY_ID": 10000026,
+    "ID_FACULTET": 5,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 29351,
+    "NAME": "МП-701",
+    "COURSE_NUM": 4,
+    "SPECIALITY_ID": 10000024,
+    "ID_FACULTET": 5,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 29352,
+    "NAME": "ТА-701",
+    "COURSE_NUM": 4,
+    "SPECIALITY_ID": 10000030,
+    "ID_FACULTET": 5,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 29353,
+    "NAME": "КП-701",
+    "COURSE_NUM": 4,
+    "SPECIALITY_ID": 10000040,
+    "ID_FACULTET": 5,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 29354,
+    "NAME": "КХ-701",
+    "COURSE_NUM": 4,
+    "SPECIALITY_ID": 10000051,
+    "ID_FACULTET": 5,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 29355,
+    "NAME": "ТХ-701",
+    "COURSE_NUM": 4,
+    "SPECIALITY_ID": 10000054,
+    "ID_FACULTET": 5,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 29356,
+    "NAME": "НТ-701",
+    "COURSE_NUM": 4,
+    "SPECIALITY_ID": 10000027,
+    "ID_FACULTET": 5,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 29357,
+    "NAME": "ХТ-701",
+    "COURSE_NUM": 4,
+    "SPECIALITY_ID": 10000050,
+    "ID_FACULTET": 5,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 29392,
+    "NAME": "АВТ-709",
+    "COURSE_NUM": 4,
+    "SPECIALITY_ID": 10000046,
+    "ID_FACULTET": 3,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 29393,
+    "NAME": "АВТ-710",
+    "COURSE_NUM": 4,
+    "SPECIALITY_ID": 10000046,
+    "ID_FACULTET": 3,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 29394,
+    "NAME": "АВТ-718",
+    "COURSE_NUM": 4,
+    "SPECIALITY_ID": 10000046,
+    "ID_FACULTET": 3,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 29395,
+    "NAME": "АВТ-719",
+    "COURSE_NUM": 4,
+    "SPECIALITY_ID": 10000046,
+    "ID_FACULTET": 3,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 29398,
+    "NAME": "АИ-72",
+    "COURSE_NUM": 4,
+    "SPECIALITY_ID": 10000031,
+    "ID_FACULTET": 3,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 29400,
+    "NAME": "АБ-720",
+    "COURSE_NUM": 4,
+    "SPECIALITY_ID": 10000017,
+    "ID_FACULTET": 3,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 29404,
+    "NAME": "АВТ-713",
+    "COURSE_NUM": 4,
+    "SPECIALITY_ID": 10000046,
+    "ID_FACULTET": 3,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 29407,
+    "NAME": "АА-77",
+    "COURSE_NUM": 4,
+    "SPECIALITY_ID": 10000039,
+    "ID_FACULTET": 3,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 29411,
+    "NAME": "АО-71",
+    "COURSE_NUM": 4,
+    "SPECIALITY_ID": 10000034,
+    "ID_FACULTET": 3,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 29412,
+    "NAME": "АБс-723",
+    "COURSE_NUM": 4,
+    "SPECIALITY_ID": 10000137,
+    "ID_FACULTET": 3,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 29469,
+    "NAME": "ЭЭз-72",
+    "COURSE_NUM": 4,
+    "SPECIALITY_ID": 10000021,
+    "ID_FACULTET": 9,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 29470,
+    "NAME": "ЭТз-71",
+    "COURSE_NUM": 4,
+    "SPECIALITY_ID": 10000020,
+    "ID_FACULTET": 9,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 29471,
+    "NAME": "ЭЭз-71",
+    "COURSE_NUM": 4,
+    "SPECIALITY_ID": 10000021,
+    "ID_FACULTET": 9,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 29489,
+    "NAME": "Д-72",
+    "COURSE_NUM": 4,
+    "SPECIALITY_ID": 1664,
+    "ID_FACULTET": 21,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 29549,
+    "NAME": "ИЗ-71",
+    "COURSE_NUM": 4,
+    "SPECIALITY_ID": 2004,
+    "ID_FACULTET": 21,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 29818,
+    "NAME": "ЭК-71",
+    "COURSE_NUM": 4,
+    "SPECIALITY_ID": 10000014,
+    "ID_FACULTET": 2,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 29837,
+    "NAME": "ФБМИП-71",
+    "COURSE_NUM": 4,
+    "SPECIALITY_ID": 10000014,
+    "ID_FACULTET": 2,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 30189,
+    "NAME": "ПВ-71",
+    "COURSE_NUM": 4,
+    "SPECIALITY_ID": 10000006,
+    "ID_FACULTET": 10,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 30330,
+    "NAME": "ФБТХ-71",
+    "COURSE_NUM": 4,
+    "SPECIALITY_ID": 10000053,
+    "ID_FACULTET": 2,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 30331,
+    "NAME": "ФБТХ-72",
+    "COURSE_NUM": 4,
+    "SPECIALITY_ID": 10000053,
+    "ID_FACULTET": 2,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 30370,
+    "NAME": "ВзФБ-702",
+    "COURSE_NUM": 4,
+    "SPECIALITY_ID": 10000014,
+    "ID_FACULTET": 2,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 30549,
+    "NAME": "ФБИ-71",
+    "COURSE_NUM": 4,
+    "SPECIALITY_ID": 10000048,
+    "ID_FACULTET": 3,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 30712,
+    "NAME": "АТ-74",
+    "COURSE_NUM": 4,
+    "SPECIALITY_ID": 10000047,
+    "ID_FACULTET": 3,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 30910,
+    "NAME": "МБ-72",
+    "COURSE_NUM": 4,
+    "SPECIALITY_ID": 10000055,
+    "ID_FACULTET": 6,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 30911,
+    "NAME": "АВТ-716",
+    "COURSE_NUM": 4,
+    "SPECIALITY_ID": 10000049,
+    "ID_FACULTET": 3,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 31090,
+    "NAME": "ПВ-72",
+    "COURSE_NUM": 4,
+    "SPECIALITY_ID": 10000006,
+    "ID_FACULTET": 10,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 31171,
+    "NAME": "АО-82",
+    "COURSE_NUM": 3,
+    "SPECIALITY_ID": 10000034,
+    "ID_FACULTET": 3,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 31172,
+    "NAME": "АБс-822",
+    "COURSE_NUM": 3,
+    "SPECIALITY_ID": 10000137,
+    "ID_FACULTET": 3,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 31174,
+    "NAME": "АП-826",
+    "COURSE_NUM": 3,
+    "SPECIALITY_ID": 10000048,
+    "ID_FACULTET": 3,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 31175,
+    "NAME": "АП-827",
+    "COURSE_NUM": 3,
+    "SPECIALITY_ID": 10000048,
+    "ID_FACULTET": 3,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 31176,
+    "NAME": "АТ-84",
+    "COURSE_NUM": 3,
+    "SPECIALITY_ID": 10000047,
+    "ID_FACULTET": 3,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 31181,
+    "NAME": "АВТ-815",
+    "COURSE_NUM": 3,
+    "SPECIALITY_ID": 10000049,
+    "ID_FACULTET": 3,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 31182,
+    "NAME": "АВТ-809",
+    "COURSE_NUM": 3,
+    "SPECIALITY_ID": 10000046,
+    "ID_FACULTET": 3,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 31183,
+    "NAME": "АВТ-810",
+    "COURSE_NUM": 3,
+    "SPECIALITY_ID": 10000046,
+    "ID_FACULTET": 3,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 31184,
+    "NAME": "АВТ-818",
+    "COURSE_NUM": 3,
+    "SPECIALITY_ID": 10000046,
+    "ID_FACULTET": 3,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 31185,
+    "NAME": "АВТ-819",
+    "COURSE_NUM": 3,
+    "SPECIALITY_ID": 10000046,
+    "ID_FACULTET": 3,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 31188,
+    "NAME": "АИ-82",
+    "COURSE_NUM": 3,
+    "SPECIALITY_ID": 10000031,
+    "ID_FACULTET": 3,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 31189,
+    "NAME": "АТ-83",
+    "COURSE_NUM": 3,
+    "SPECIALITY_ID": 10000047,
+    "ID_FACULTET": 3,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 31190,
+    "NAME": "АБ-820",
+    "COURSE_NUM": 3,
+    "SPECIALITY_ID": 10000017,
+    "ID_FACULTET": 3,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 31194,
+    "NAME": "АВТ-813",
+    "COURSE_NUM": 3,
+    "SPECIALITY_ID": 10000046,
+    "ID_FACULTET": 3,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 31195,
+    "NAME": "АВТ-812",
+    "COURSE_NUM": 3,
+    "SPECIALITY_ID": 10000046,
+    "ID_FACULTET": 3,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 31197,
+    "NAME": "АА-87",
+    "COURSE_NUM": 3,
+    "SPECIALITY_ID": 10000039,
+    "ID_FACULTET": 3,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 31202,
+    "NAME": "АБс-823",
+    "COURSE_NUM": 3,
+    "SPECIALITY_ID": 10000137,
+    "ID_FACULTET": 3,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 31214,
+    "NAME": "СЭ-81",
+    "COURSE_NUM": 3,
+    "SPECIALITY_ID": 10000055,
+    "ID_FACULTET": 6,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 31215,
+    "NAME": "ТС-81",
+    "COURSE_NUM": 3,
+    "SPECIALITY_ID": 10000045,
+    "ID_FACULTET": 6,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 31216,
+    "NAME": "ПС-81",
+    "COURSE_NUM": 3,
+    "SPECIALITY_ID": 10000025,
+    "ID_FACULTET": 6,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 31217,
+    "NAME": "СА-81",
+    "COURSE_NUM": 3,
+    "SPECIALITY_ID": 10000029,
+    "ID_FACULTET": 6,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 31218,
+    "NAME": "СД-81",
+    "COURSE_NUM": 3,
+    "SPECIALITY_ID": 10000132,
+    "ID_FACULTET": 6,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 31219,
+    "NAME": "С-81",
+    "COURSE_NUM": 3,
+    "SPECIALITY_ID": 10000028,
+    "ID_FACULTET": 6,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 31220,
+    "NAME": "МА-81",
+    "COURSE_NUM": 3,
+    "SPECIALITY_ID": 10000062,
+    "ID_FACULTET": 6,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 31222,
+    "NAME": "МБ-81",
+    "COURSE_NUM": 3,
+    "SPECIALITY_ID": 10000055,
+    "ID_FACULTET": 6,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 31223,
+    "NAME": "ГС-81",
+    "COURSE_NUM": 3,
+    "SPECIALITY_ID": 10000159,
+    "ID_FACULTET": 6,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 31225,
+    "NAME": "МВ-81",
+    "COURSE_NUM": 3,
+    "SPECIALITY_ID": 10000062,
+    "ID_FACULTET": 6,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 31226,
+    "NAME": "ЭП-81",
+    "COURSE_NUM": 3,
+    "SPECIALITY_ID": 10000134,
+    "ID_FACULTET": 6,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 31233,
+    "NAME": "С-82",
+    "COURSE_NUM": 3,
+    "SPECIALITY_ID": 10000028,
+    "ID_FACULTET": 6,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 31235,
+    "NAME": "МР-81",
+    "COURSE_NUM": 3,
+    "SPECIALITY_ID": 10000039,
+    "ID_FACULTET": 6,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 31250,
+    "NAME": "ЭМ-83",
+    "COURSE_NUM": 3,
+    "SPECIALITY_ID": 10000021,
+    "ID_FACULTET": 1,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 31254,
+    "NAME": "ЭМ-87",
+    "COURSE_NUM": 3,
+    "SPECIALITY_ID": 10000021,
+    "ID_FACULTET": 1,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 31255,
+    "NAME": "ЭМ-82",
+    "COURSE_NUM": 3,
+    "SPECIALITY_ID": 10000021,
+    "ID_FACULTET": 1,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 31256,
+    "NAME": "ЭМ-85",
+    "COURSE_NUM": 3,
+    "SPECIALITY_ID": 10000021,
+    "ID_FACULTET": 1,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 31258,
+    "NAME": "ЭМА-82",
+    "COURSE_NUM": 3,
+    "SPECIALITY_ID": 10000040,
+    "ID_FACULTET": 1,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 31262,
+    "NAME": "ЭМА-81",
+    "COURSE_NUM": 3,
+    "SPECIALITY_ID": 10000040,
+    "ID_FACULTET": 1,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 31274,
+    "NAME": "ТЭ-82",
+    "COURSE_NUM": 3,
+    "SPECIALITY_ID": 10000020,
+    "ID_FACULTET": 9,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 31275,
+    "NAME": "ЭН1-82",
+    "COURSE_NUM": 3,
+    "SPECIALITY_ID": 10000021,
+    "ID_FACULTET": 9,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 31276,
+    "NAME": "ЭН2-84",
+    "COURSE_NUM": 3,
+    "SPECIALITY_ID": 10000021,
+    "ID_FACULTET": 9,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 31277,
+    "NAME": "ТЭ-81",
+    "COURSE_NUM": 3,
+    "SPECIALITY_ID": 10000020,
+    "ID_FACULTET": 9,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 31278,
+    "NAME": "ЭнБ-81",
+    "COURSE_NUM": 3,
+    "SPECIALITY_ID": 10000055,
+    "ID_FACULTET": 9,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 31279,
+    "NAME": "ЭН1-81",
+    "COURSE_NUM": 3,
+    "SPECIALITY_ID": 10000021,
+    "ID_FACULTET": 9,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 31280,
+    "NAME": "ЭН1-83",
+    "COURSE_NUM": 3,
+    "SPECIALITY_ID": 10000021,
+    "ID_FACULTET": 9,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 31281,
+    "NAME": "ЭН2-81",
+    "COURSE_NUM": 3,
+    "SPECIALITY_ID": 10000021,
+    "ID_FACULTET": 9,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 31282,
+    "NAME": "ЭН2-82",
+    "COURSE_NUM": 3,
+    "SPECIALITY_ID": 10000021,
+    "ID_FACULTET": 9,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 31310,
+    "NAME": "РТ5-81",
+    "COURSE_NUM": 3,
+    "SPECIALITY_ID": 10000036,
+    "ID_FACULTET": 4,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 31311,
+    "NAME": "РК6-81",
+    "COURSE_NUM": 3,
+    "SPECIALITY_ID": 10000038,
+    "ID_FACULTET": 4,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 31312,
+    "NAME": "РТС9-81",
+    "COURSE_NUM": 3,
+    "SPECIALITY_ID": 10000037,
+    "ID_FACULTET": 4,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 31314,
+    "NAME": "РКС10-81",
+    "COURSE_NUM": 3,
+    "SPECIALITY_ID": 10000037,
+    "ID_FACULTET": 4,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 31315,
+    "NAME": "РНТ1-81",
+    "COURSE_NUM": 3,
+    "SPECIALITY_ID": 10000044,
+    "ID_FACULTET": 4,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 31316,
+    "NAME": "РМС7-81",
+    "COURSE_NUM": 3,
+    "SPECIALITY_ID": 10000044,
+    "ID_FACULTET": 4,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 31317,
+    "NAME": "РЭН2-81",
+    "COURSE_NUM": 3,
+    "SPECIALITY_ID": 10000035,
+    "ID_FACULTET": 4,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 31319,
+    "NAME": "РЭ3-82",
+    "COURSE_NUM": 3,
+    "SPECIALITY_ID": 10000035,
+    "ID_FACULTET": 4,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 31320,
+    "NAME": "РЭ3-81",
+    "COURSE_NUM": 3,
+    "SPECIALITY_ID": 10000035,
+    "ID_FACULTET": 4,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 31321,
+    "NAME": "РТВ14-81",
+    "COURSE_NUM": 3,
+    "SPECIALITY_ID": 10000037,
+    "ID_FACULTET": 4,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 31324,
+    "NAME": "РТ5-82",
+    "COURSE_NUM": 3,
+    "SPECIALITY_ID": 10000036,
+    "ID_FACULTET": 4,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 31338,
+    "NAME": "РП4-81",
+    "COURSE_NUM": 3,
+    "SPECIALITY_ID": 10000035,
+    "ID_FACULTET": 4,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 31345,
+    "NAME": "ФББ-81",
+    "COURSE_NUM": 3,
+    "SPECIALITY_ID": 10000015,
+    "ID_FACULTET": 2,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 31346,
+    "NAME": "ФББ-82",
+    "COURSE_NUM": 3,
+    "SPECIALITY_ID": 10000015,
+    "ID_FACULTET": 2,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 31349,
+    "NAME": "ФБЭ-81",
+    "COURSE_NUM": 3,
+    "SPECIALITY_ID": 10000013,
+    "ID_FACULTET": 2,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 31350,
+    "NAME": "ФБЭ-82",
+    "COURSE_NUM": 3,
+    "SPECIALITY_ID": 10000013,
+    "ID_FACULTET": 2,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 31351,
+    "NAME": "ФБЭ-83",
+    "COURSE_NUM": 3,
+    "SPECIALITY_ID": 10000013,
+    "ID_FACULTET": 2,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 31353,
+    "NAME": "ФБ-83",
+    "COURSE_NUM": 3,
+    "SPECIALITY_ID": 10000014,
+    "ID_FACULTET": 2,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 31356,
+    "NAME": "ФБ-81",
+    "COURSE_NUM": 3,
+    "SPECIALITY_ID": 10000014,
+    "ID_FACULTET": 2,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 31357,
+    "NAME": "ФБ-82",
+    "COURSE_NUM": 3,
+    "SPECIALITY_ID": 10000014,
+    "ID_FACULTET": 2,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 31358,
+    "NAME": "ФБ-84",
+    "COURSE_NUM": 3,
+    "SPECIALITY_ID": 10000014,
+    "ID_FACULTET": 2,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 31372,
+    "NAME": "ФБМИП-81",
+    "COURSE_NUM": 3,
+    "SPECIALITY_ID": 10000014,
+    "ID_FACULTET": 2,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 31378,
+    "NAME": "ФБТХ-81",
+    "COURSE_NUM": 3,
+    "SPECIALITY_ID": 10000053,
+    "ID_FACULTET": 2,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 31379,
+    "NAME": "ФБТХ-82",
+    "COURSE_NUM": 3,
+    "SPECIALITY_ID": 10000053,
+    "ID_FACULTET": 2,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 31382,
+    "NAME": "ЭК-81",
+    "COURSE_NUM": 3,
+    "SPECIALITY_ID": 10000014,
+    "ID_FACULTET": 2,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 31390,
+    "NAME": "КМ-801",
+    "COURSE_NUM": 3,
+    "SPECIALITY_ID": 10000026,
+    "ID_FACULTET": 5,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 31392,
+    "NAME": "ММ-801",
+    "COURSE_NUM": 3,
+    "SPECIALITY_ID": 10000022,
+    "ID_FACULTET": 5,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 31395,
+    "NAME": "ТМ-801",
+    "COURSE_NUM": 3,
+    "SPECIALITY_ID": 10000026,
+    "ID_FACULTET": 5,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 31396,
+    "NAME": "МП-801",
+    "COURSE_NUM": 3,
+    "SPECIALITY_ID": 10000024,
+    "ID_FACULTET": 5,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 31397,
+    "NAME": "ТА-801",
+    "COURSE_NUM": 3,
+    "SPECIALITY_ID": 10000030,
+    "ID_FACULTET": 5,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 31398,
+    "NAME": "КП-801",
+    "COURSE_NUM": 3,
+    "SPECIALITY_ID": 10000040,
+    "ID_FACULTET": 5,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 31399,
+    "NAME": "КХ-801",
+    "COURSE_NUM": 3,
+    "SPECIALITY_ID": 10000051,
+    "ID_FACULTET": 5,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 31400,
+    "NAME": "ТХ-801",
+    "COURSE_NUM": 3,
+    "SPECIALITY_ID": 10000054,
+    "ID_FACULTET": 5,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 31401,
+    "NAME": "НТ-801",
+    "COURSE_NUM": 3,
+    "SPECIALITY_ID": 10000027,
+    "ID_FACULTET": 5,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 31402,
+    "NAME": "ХТ-801",
+    "COURSE_NUM": 3,
+    "SPECIALITY_ID": 10000050,
+    "ID_FACULTET": 5,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 31410,
+    "NAME": "ФК-81",
+    "COURSE_NUM": 3,
+    "SPECIALITY_ID": 10000067,
+    "ID_FACULTET": 8,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 31411,
+    "NAME": "ФО-81",
+    "COURSE_NUM": 3,
+    "SPECIALITY_ID": 10000032,
+    "ID_FACULTET": 8,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 31412,
+    "NAME": "ФЛ-81",
+    "COURSE_NUM": 3,
+    "SPECIALITY_ID": 10000033,
+    "ID_FACULTET": 8,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 31413,
+    "NAME": "ФТ-81",
+    "COURSE_NUM": 3,
+    "SPECIALITY_ID": 10000005,
+    "ID_FACULTET": 8,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 31414,
+    "NAME": "ФФ-81",
+    "COURSE_NUM": 3,
+    "SPECIALITY_ID": 10000056,
+    "ID_FACULTET": 8,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 31415,
+    "NAME": "ФГ-81",
+    "COURSE_NUM": 3,
+    "SPECIALITY_ID": 10000045,
+    "ID_FACULTET": 8,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 31490,
+    "NAME": "ИЯ-85",
+    "COURSE_NUM": 3,
+    "SPECIALITY_ID": 10000057,
+    "ID_FACULTET": 10,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 31491,
+    "NAME": "ИЯ-86",
+    "COURSE_NUM": 3,
+    "SPECIALITY_ID": 10000057,
+    "ID_FACULTET": 10,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 31495,
+    "NAME": "СЛ-81",
+    "COURSE_NUM": 3,
+    "SPECIALITY_ID": 10000011,
+    "ID_FACULTET": 10,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 31496,
+    "NAME": "П-81",
+    "COURSE_NUM": 3,
+    "SPECIALITY_ID": 10000006,
+    "ID_FACULTET": 10,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 31497,
+    "NAME": "РГ-81",
+    "COURSE_NUM": 3,
+    "SPECIALITY_ID": 10000009,
+    "ID_FACULTET": 10,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 31498,
+    "NAME": "РГ-82",
+    "COURSE_NUM": 3,
+    "SPECIALITY_ID": 10000009,
+    "ID_FACULTET": 10,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 31499,
+    "NAME": "РГ-83",
+    "COURSE_NUM": 3,
+    "SPECIALITY_ID": 10000009,
+    "ID_FACULTET": 10,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 31500,
+    "NAME": "ИЯ-81",
+    "COURSE_NUM": 3,
+    "SPECIALITY_ID": 10000057,
+    "ID_FACULTET": 10,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 31501,
+    "NAME": "ИЯ-82",
+    "COURSE_NUM": 3,
+    "SPECIALITY_ID": 10000057,
+    "ID_FACULTET": 10,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 31504,
+    "NAME": "Ф-81",
+    "COURSE_NUM": 3,
+    "SPECIALITY_ID": 10000010,
+    "ID_FACULTET": 10,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 31511,
+    "NAME": "РГ-84",
+    "COURSE_NUM": 3,
+    "SPECIALITY_ID": 10000009,
+    "ID_FACULTET": 10,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 31512,
+    "NAME": "ИЯ-83",
+    "COURSE_NUM": 3,
+    "SPECIALITY_ID": 10000057,
+    "ID_FACULTET": 10,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 31514,
+    "NAME": "РГ-85",
+    "COURSE_NUM": 3,
+    "SPECIALITY_ID": 10000009,
+    "ID_FACULTET": 10,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 31516,
+    "NAME": "Ф-82",
+    "COURSE_NUM": 3,
+    "SPECIALITY_ID": 10000010,
+    "ID_FACULTET": 10,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 31550,
+    "NAME": "И-82",
+    "COURSE_NUM": 3,
+    "SPECIALITY_ID": 2004,
+    "ID_FACULTET": 21,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 31551,
+    "NAME": "ВИ-81",
+    "COURSE_NUM": 3,
+    "SPECIALITY_ID": 10000046,
+    "ID_FACULTET": 21,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 31553,
+    "NAME": "И-81",
+    "COURSE_NUM": 3,
+    "SPECIALITY_ID": 2004,
+    "ID_FACULTET": 21,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 31554,
+    "NAME": "Д-85",
+    "COURSE_NUM": 3,
+    "SPECIALITY_ID": 1662,
+    "ID_FACULTET": 21,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 31555,
+    "NAME": "АФ-81",
+    "COURSE_NUM": 3,
+    "SPECIALITY_ID": 1666,
+    "ID_FACULTET": 21,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 31556,
+    "NAME": "П-81",
+    "COURSE_NUM": 3,
+    "SPECIALITY_ID": 100003,
+    "ID_FACULTET": 21,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 31557,
+    "NAME": "КН-81",
+    "COURSE_NUM": 3,
+    "SPECIALITY_ID": 10000069,
+    "ID_FACULTET": 21,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 31560,
+    "NAME": "СР-81",
+    "COURSE_NUM": 3,
+    "SPECIALITY_ID": 10000012,
+    "ID_FACULTET": 21,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 31562,
+    "NAME": "Б-81",
+    "COURSE_NUM": 3,
+    "SPECIALITY_ID": 10408085,
+    "ID_FACULTET": 21,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 31565,
+    "NAME": "Д-82",
+    "COURSE_NUM": 3,
+    "SPECIALITY_ID": 1664,
+    "ID_FACULTET": 21,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 31566,
+    "NAME": "К-81",
+    "COURSE_NUM": 3,
+    "SPECIALITY_ID": 1665,
+    "ID_FACULTET": 21,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 31567,
+    "NAME": "ИЗ-81",
+    "COURSE_NUM": 3,
+    "SPECIALITY_ID": 2004,
+    "ID_FACULTET": 21,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 31572,
+    "NAME": "ПМИ-81",
+    "COURSE_NUM": 3,
+    "SPECIALITY_ID": 10000003,
+    "ID_FACULTET": 7,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 31573,
+    "NAME": "ПМИ-82",
+    "COURSE_NUM": 3,
+    "SPECIALITY_ID": 10000003,
+    "ID_FACULTET": 7,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 31575,
+    "NAME": "ПМ-81",
+    "COURSE_NUM": 3,
+    "SPECIALITY_ID": 10000002,
+    "ID_FACULTET": 7,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 31576,
+    "NAME": "ПМ-84",
+    "COURSE_NUM": 3,
+    "SPECIALITY_ID": 10000002,
+    "ID_FACULTET": 7,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 31577,
+    "NAME": "ПМ-83",
+    "COURSE_NUM": 3,
+    "SPECIALITY_ID": 10000002,
+    "ID_FACULTET": 7,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 31580,
+    "NAME": "ПМ-85",
+    "COURSE_NUM": 3,
+    "SPECIALITY_ID": 10000002,
+    "ID_FACULTET": 7,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 31610,
+    "NAME": "ЭЭз-82",
+    "COURSE_NUM": 3,
+    "SPECIALITY_ID": 10000021,
+    "ID_FACULTET": 9,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 31611,
+    "NAME": "ЭТз-81",
+    "COURSE_NUM": 3,
+    "SPECIALITY_ID": 10000020,
+    "ID_FACULTET": 9,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 31612,
+    "NAME": "ЭЭз-81",
+    "COURSE_NUM": 3,
+    "SPECIALITY_ID": 10000021,
+    "ID_FACULTET": 9,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 31830,
+    "NAME": "ПВ-81",
+    "COURSE_NUM": 3,
+    "SPECIALITY_ID": 10000006,
+    "ID_FACULTET": 10,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 31857,
+    "NAME": "Ф-73",
+    "COURSE_NUM": 4,
+    "SPECIALITY_ID": 10000010,
+    "ID_FACULTET": 10,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 31860,
+    "NAME": "Ф-74",
+    "COURSE_NUM": 4,
+    "SPECIALITY_ID": 10000010,
+    "ID_FACULTET": 10,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 31870,
+    "NAME": "СЛ-72",
+    "COURSE_NUM": 4,
+    "SPECIALITY_ID": 10000011,
+    "ID_FACULTET": 10,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 31890,
+    "NAME": "КН-72",
+    "COURSE_NUM": 4,
+    "SPECIALITY_ID": 10000069,
+    "ID_FACULTET": 21,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 31936,
+    "NAME": "ФБМТ-71",
+    "COURSE_NUM": 4,
+    "SPECIALITY_ID": 10000014,
+    "ID_FACULTET": 2,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 31939,
+    "NAME": "ФБМС-71",
+    "COURSE_NUM": 4,
+    "SPECIALITY_ID": 10000014,
+    "ID_FACULTET": 2,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 32016,
+    "NAME": "ФББ-91",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000015,
+    "ID_FACULTET": 2,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 32017,
+    "NAME": "ФББ-92",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000015,
+    "ID_FACULTET": 2,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 32018,
+    "NAME": "ФБЭМ-93",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000102,
+    "ID_FACULTET": 2,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 32020,
+    "NAME": "ФБЭ-91",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000013,
+    "ID_FACULTET": 2,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 32021,
+    "NAME": "ФБЭ-92",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000013,
+    "ID_FACULTET": 2,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 32022,
+    "NAME": "ФБЭ-93",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000013,
+    "ID_FACULTET": 2,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 32023,
+    "NAME": "ФБЭ-94",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000013,
+    "ID_FACULTET": 2,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 32024,
+    "NAME": "ФБ-93",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000014,
+    "ID_FACULTET": 2,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 32027,
+    "NAME": "ФБ-91",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000014,
+    "ID_FACULTET": 2,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 32028,
+    "NAME": "ФБ-92",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000014,
+    "ID_FACULTET": 2,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 32029,
+    "NAME": "ФБ-94",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000014,
+    "ID_FACULTET": 2,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 32032,
+    "NAME": "ФБМ-93",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000077,
+    "ID_FACULTET": 2,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 32033,
+    "NAME": "ФБЭМ-96",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000102,
+    "ID_FACULTET": 2,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 32035,
+    "NAME": "ФБМ-96",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000077,
+    "ID_FACULTET": 2,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 32037,
+    "NAME": "ФБЭМ-95",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000102,
+    "ID_FACULTET": 2,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 32043,
+    "NAME": "ФБМИП-91",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000014,
+    "ID_FACULTET": 2,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 32048,
+    "NAME": "ФБТХМ-91",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000110,
+    "ID_FACULTET": 2,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 32049,
+    "NAME": "ФБТХ-91",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000053,
+    "ID_FACULTET": 2,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 32050,
+    "NAME": "ФБТХ-92",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000053,
+    "ID_FACULTET": 2,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 32053,
+    "NAME": "ЭК-91",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000014,
+    "ID_FACULTET": 2,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 32056,
+    "NAME": "ФБЭБ-81",
+    "COURSE_NUM": 3,
+    "SPECIALITY_ID": 10000013,
+    "ID_FACULTET": 2,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 32070,
+    "NAME": "ФБЭБ-91",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000013,
+    "ID_FACULTET": 2,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 32071,
+    "NAME": "ФБЭБ-92",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000013,
+    "ID_FACULTET": 2,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 32090,
+    "NAME": "СЛ-82",
+    "COURSE_NUM": 3,
+    "SPECIALITY_ID": 10000011,
+    "ID_FACULTET": 10,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 32092,
+    "NAME": "Ф-83",
+    "COURSE_NUM": 3,
+    "SPECIALITY_ID": 10000010,
+    "ID_FACULTET": 10,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 32170,
+    "NAME": "ЭМ-81",
+    "COURSE_NUM": 3,
+    "SPECIALITY_ID": 10000021,
+    "ID_FACULTET": 1,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 32191,
+    "NAME": "ЭН2-85",
+    "COURSE_NUM": 3,
+    "SPECIALITY_ID": 10000021,
+    "ID_FACULTET": 9,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 32213,
+    "NAME": "ЭН2-75",
+    "COURSE_NUM": 4,
+    "SPECIALITY_ID": 10000021,
+    "ID_FACULTET": 9,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 32290,
+    "NAME": "ПСФ-71",
+    "COURSE_NUM": 4,
+    "SPECIALITY_ID": 10000007,
+    "ID_FACULTET": 21,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 32330,
+    "NAME": "ФБМТ-81",
+    "COURSE_NUM": 3,
+    "SPECIALITY_ID": 10000014,
+    "ID_FACULTET": 2,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 32563,
+    "NAME": "АВТ-814",
+    "COURSE_NUM": 3,
+    "SPECIALITY_ID": 10000049,
+    "ID_FACULTET": 3,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 32570,
+    "NAME": "ФББ-83",
+    "COURSE_NUM": 3,
+    "SPECIALITY_ID": 10000015,
+    "ID_FACULTET": 2,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 32591,
+    "NAME": "ФБЭ-85",
+    "COURSE_NUM": 3,
+    "SPECIALITY_ID": 10000013,
+    "ID_FACULTET": 2,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 32650,
+    "NAME": "ИЯ-87",
+    "COURSE_NUM": 3,
+    "SPECIALITY_ID": 10000057,
+    "ID_FACULTET": 10,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 32790,
+    "NAME": "СДМ-91",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 1801,
+    "ID_FACULTET": 6,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 32793,
+    "NAME": "ТСМ-91",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000130,
+    "ID_FACULTET": 6,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 32794,
+    "NAME": "СЭ-91",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000055,
+    "ID_FACULTET": 6,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 32795,
+    "NAME": "ТС-91",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000045,
+    "ID_FACULTET": 6,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 32796,
+    "NAME": "ПС-91",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000025,
+    "ID_FACULTET": 6,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 32797,
+    "NAME": "СА-91",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000029,
+    "ID_FACULTET": 6,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 32798,
+    "NAME": "СД-91",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000132,
+    "ID_FACULTET": 6,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 32799,
+    "NAME": "С-91",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000028,
+    "ID_FACULTET": 6,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 32800,
+    "NAME": "МА-91",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000062,
+    "ID_FACULTET": 6,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 32802,
+    "NAME": "МБ-91",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000055,
+    "ID_FACULTET": 6,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 32803,
+    "NAME": "ГС-91",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000159,
+    "ID_FACULTET": 6,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 32805,
+    "NAME": "МВ-91",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000062,
+    "ID_FACULTET": 6,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 32806,
+    "NAME": "ЭП-91",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000134,
+    "ID_FACULTET": 6,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 32807,
+    "NAME": "АУМ-91",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000129,
+    "ID_FACULTET": 6,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 32808,
+    "NAME": "ГСМ-91",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000074,
+    "ID_FACULTET": 6,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 32809,
+    "NAME": "ПСМ-91",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000109,
+    "ID_FACULTET": 6,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 32810,
+    "NAME": "САМ-91",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000113,
+    "ID_FACULTET": 6,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 32811,
+    "NAME": "СМ-91",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000074,
+    "ID_FACULTET": 6,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 32812,
+    "NAME": "СЭМ-91",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000119,
+    "ID_FACULTET": 6,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 32813,
+    "NAME": "С-92",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000028,
+    "ID_FACULTET": 6,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 32814,
+    "NAME": "МБМ-91",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000119,
+    "ID_FACULTET": 6,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 32815,
+    "NAME": "МР-91",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000039,
+    "ID_FACULTET": 6,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 32830,
+    "NAME": "ФББ-93",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000015,
+    "ID_FACULTET": 2,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 32832,
+    "NAME": "ФБМТ-91",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000014,
+    "ID_FACULTET": 2,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 32850,
+    "NAME": "Маг-962",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000128,
+    "ID_FACULTET": 5,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 32851,
+    "NAME": "Маг-992",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000086,
+    "ID_FACULTET": 5,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 32852,
+    "NAME": "АП-927",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000048,
+    "ID_FACULTET": 3,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 32853,
+    "NAME": "АП-926",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000048,
+    "ID_FACULTET": 3,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 32870,
+    "NAME": "П-91",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000006,
+    "ID_FACULTET": 10,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 32871,
+    "NAME": "ФА-91М",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000095,
+    "ID_FACULTET": 8,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 32872,
+    "NAME": "П-92",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000006,
+    "ID_FACULTET": 10,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 32873,
+    "NAME": "ПВ-91",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000006,
+    "ID_FACULTET": 10,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 32910,
+    "NAME": "РТ5-91",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000036,
+    "ID_FACULTET": 4,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 32911,
+    "NAME": "РК6-91",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000038,
+    "ID_FACULTET": 4,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 32912,
+    "NAME": "РТС9-91",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000037,
+    "ID_FACULTET": 4,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 32914,
+    "NAME": "РКС10-91",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000037,
+    "ID_FACULTET": 4,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 32915,
+    "NAME": "РНТ1-91",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000044,
+    "ID_FACULTET": 4,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 32916,
+    "NAME": "РМС7-91",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000044,
+    "ID_FACULTET": 4,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 32917,
+    "NAME": "РЭН2-91",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000035,
+    "ID_FACULTET": 4,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 32920,
+    "NAME": "РЭ3-91",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000035,
+    "ID_FACULTET": 4,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 32921,
+    "NAME": "РТВ14-91",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000037,
+    "ID_FACULTET": 4,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 32922,
+    "NAME": "РКС10-92",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000037,
+    "ID_FACULTET": 4,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 32925,
+    "NAME": "РТВМ-91",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000127,
+    "ID_FACULTET": 4,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 32927,
+    "NAME": "РМС-91",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000076,
+    "ID_FACULTET": 4,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 32928,
+    "NAME": "РММ2-91",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000089,
+    "ID_FACULTET": 4,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 32929,
+    "NAME": "РКМ-91",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000073,
+    "ID_FACULTET": 4,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 32930,
+    "NAME": "РТМ-93",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000095,
+    "ID_FACULTET": 4,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 32931,
+    "NAME": "РТМ-92",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000095,
+    "ID_FACULTET": 4,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 32932,
+    "NAME": "РП4-92",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000035,
+    "ID_FACULTET": 4,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 32934,
+    "NAME": "РЭМ-91",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000089,
+    "ID_FACULTET": 4,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 32935,
+    "NAME": "РПМ-91",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000089,
+    "ID_FACULTET": 4,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 32936,
+    "NAME": "РКСМ-91",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000127,
+    "ID_FACULTET": 4,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 32937,
+    "NAME": "РНМ-91",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000076,
+    "ID_FACULTET": 4,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 32938,
+    "NAME": "РП4-91",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000035,
+    "ID_FACULTET": 4,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 32939,
+    "NAME": "РТСМ-91",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000127,
+    "ID_FACULTET": 4,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 32954,
+    "NAME": "зФБГМ-92",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 1821,
+    "ID_FACULTET": 2,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 32990,
+    "NAME": "зФБЭМ-94",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000102,
+    "ID_FACULTET": 2,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 33010,
+    "NAME": "И-92",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 2004,
+    "ID_FACULTET": 21,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 33011,
+    "NAME": "ВИ-91",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000046,
+    "ID_FACULTET": 21,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 33013,
+    "NAME": "И-91",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 2004,
+    "ID_FACULTET": 21,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 33014,
+    "NAME": "Д-95",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 1662,
+    "ID_FACULTET": 21,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 33015,
+    "NAME": "АФ-91",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 1666,
+    "ID_FACULTET": 21,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 33016,
+    "NAME": "П-91",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 100003,
+    "ID_FACULTET": 21,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 33020,
+    "NAME": "СР-91",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000012,
+    "ID_FACULTET": 21,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 33022,
+    "NAME": "Б-91",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10408085,
+    "ID_FACULTET": 21,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 33023,
+    "NAME": "С-91",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 1761,
+    "ID_FACULTET": 21,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 33025,
+    "NAME": "Д-92",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 1664,
+    "ID_FACULTET": 21,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 33026,
+    "NAME": "К-91",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 1665,
+    "ID_FACULTET": 21,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 33027,
+    "NAME": "КН-91",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000069,
+    "ID_FACULTET": 21,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 33029,
+    "NAME": "ИЗ-91",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 2004,
+    "ID_FACULTET": 21,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 33052,
+    "NAME": "ЭнБМ-91",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000119,
+    "ID_FACULTET": 9,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 33053,
+    "NAME": "ТЭ-92",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000020,
+    "ID_FACULTET": 9,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 33054,
+    "NAME": "ЭН1-92",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000021,
+    "ID_FACULTET": 9,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 33055,
+    "NAME": "ЭН2-94",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000021,
+    "ID_FACULTET": 9,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 33056,
+    "NAME": "ТЭ-91",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000020,
+    "ID_FACULTET": 9,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 33057,
+    "NAME": "ЭнБ-91",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000055,
+    "ID_FACULTET": 9,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 33058,
+    "NAME": "ЭН1-91",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000021,
+    "ID_FACULTET": 9,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 33060,
+    "NAME": "ЭН2-91",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000021,
+    "ID_FACULTET": 9,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 33061,
+    "NAME": "ЭН2-92",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000021,
+    "ID_FACULTET": 9,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 33063,
+    "NAME": "ТЭМ-91",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000116,
+    "ID_FACULTET": 9,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 33064,
+    "NAME": "ЭНМ1-91",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000061,
+    "ID_FACULTET": 9,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 33065,
+    "NAME": "ЭНМ1-92",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000061,
+    "ID_FACULTET": 9,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 33066,
+    "NAME": "ЭНМ2-91",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000061,
+    "ID_FACULTET": 9,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 33067,
+    "NAME": "ЭНМ1-93",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000061,
+    "ID_FACULTET": 9,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 33068,
+    "NAME": "ЭНМ2-94",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000061,
+    "ID_FACULTET": 9,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 33069,
+    "NAME": "ЭНМЭ-91",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000061,
+    "ID_FACULTET": 9,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 33122,
+    "NAME": "ЭМ-93",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000021,
+    "ID_FACULTET": 1,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 33124,
+    "NAME": "ЭММ-91",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000061,
+    "ID_FACULTET": 1,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 33125,
+    "NAME": "ЭММ-92",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000061,
+    "ID_FACULTET": 1,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 33126,
+    "NAME": "ЭМ-97",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000021,
+    "ID_FACULTET": 1,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 33127,
+    "NAME": "ЭМ-92",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000021,
+    "ID_FACULTET": 1,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 33128,
+    "NAME": "ЭМ-95",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000021,
+    "ID_FACULTET": 1,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 33130,
+    "NAME": "ЭМА-92",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000040,
+    "ID_FACULTET": 1,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 33131,
+    "NAME": "ЭММ-93",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000061,
+    "ID_FACULTET": 1,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 33132,
+    "NAME": "ЭММА-91",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000129,
+    "ID_FACULTET": 1,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 33134,
+    "NAME": "ЭМА-91",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000040,
+    "ID_FACULTET": 1,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 33135,
+    "NAME": "ЭММ-94",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000061,
+    "ID_FACULTET": 1,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 33136,
+    "NAME": "ЭМ-91",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000021,
+    "ID_FACULTET": 1,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 33137,
+    "NAME": "МП-901",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000024,
+    "ID_FACULTET": 5,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 33138,
+    "NAME": "ТА-901",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000030,
+    "ID_FACULTET": 5,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 33139,
+    "NAME": "КМ-901",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000026,
+    "ID_FACULTET": 5,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 33140,
+    "NAME": "Маг-96",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000128,
+    "ID_FACULTET": 5,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 33141,
+    "NAME": "ММ-901",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000022,
+    "ID_FACULTET": 5,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 33142,
+    "NAME": "Маг-991",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000086,
+    "ID_FACULTET": 5,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 33143,
+    "NAME": "Маг-99",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000086,
+    "ID_FACULTET": 5,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 33144,
+    "NAME": "ТМ-901",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000026,
+    "ID_FACULTET": 5,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 33145,
+    "NAME": "КП-901",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000040,
+    "ID_FACULTET": 5,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 33146,
+    "NAME": "КХ-901",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000051,
+    "ID_FACULTET": 5,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 33147,
+    "NAME": "ТХ-901",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000054,
+    "ID_FACULTET": 5,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 33148,
+    "NAME": "НТ-901",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000027,
+    "ID_FACULTET": 5,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 33149,
+    "NAME": "ХТ-901",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000050,
+    "ID_FACULTET": 5,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 33151,
+    "NAME": "Маг-961",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000128,
+    "ID_FACULTET": 5,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 33153,
+    "NAME": "МтР-901",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000041,
+    "ID_FACULTET": 5,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 33155,
+    "NAME": "ХТ-902",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000050,
+    "ID_FACULTET": 5,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 33156,
+    "NAME": "КХ-902",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000051,
+    "ID_FACULTET": 5,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 33170,
+    "NAME": "АПМ-19",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000092,
+    "ID_FACULTET": 3,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 33172,
+    "NAME": "АБс-922",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000137,
+    "ID_FACULTET": 3,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 33173,
+    "NAME": "АБМ-19",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000098,
+    "ID_FACULTET": 3,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 33174,
+    "NAME": "АТ-94",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000047,
+    "ID_FACULTET": 3,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 33176,
+    "NAME": "АВТ-943",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000049,
+    "ID_FACULTET": 3,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 33177,
+    "NAME": "АВТ-942",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000049,
+    "ID_FACULTET": 3,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 33178,
+    "NAME": "АВТ-909",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000046,
+    "ID_FACULTET": 3,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 33179,
+    "NAME": "АВТ-910",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000046,
+    "ID_FACULTET": 3,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 33180,
+    "NAME": "АВТ-918",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000046,
+    "ID_FACULTET": 3,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 33182,
+    "NAME": "АММ-19",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000098,
+    "ID_FACULTET": 3,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 33183,
+    "NAME": "АПИМ-19",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000081,
+    "ID_FACULTET": 3,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 33184,
+    "NAME": "АИ-92",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000031,
+    "ID_FACULTET": 3,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 33185,
+    "NAME": "АТ-93",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000047,
+    "ID_FACULTET": 3,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 33186,
+    "NAME": "АБ-920",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000017,
+    "ID_FACULTET": 3,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 33187,
+    "NAME": "АБ-921",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000017,
+    "ID_FACULTET": 3,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 33188,
+    "NAME": "АСМ-19",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000098,
+    "ID_FACULTET": 3,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 33190,
+    "NAME": "АВТ-913",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000046,
+    "ID_FACULTET": 3,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 33191,
+    "NAME": "АВТ-912",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000046,
+    "ID_FACULTET": 3,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 33192,
+    "NAME": "АА-96",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000039,
+    "ID_FACULTET": 3,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 33193,
+    "NAME": "АА-97",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000039,
+    "ID_FACULTET": 3,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 33194,
+    "NAME": "ААМ-19",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000129,
+    "ID_FACULTET": 3,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 33195,
+    "NAME": "АИМ-19",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000100,
+    "ID_FACULTET": 3,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 33196,
+    "NAME": "АОМ-19",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000075,
+    "ID_FACULTET": 3,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 33197,
+    "NAME": "АО-91",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000034,
+    "ID_FACULTET": 3,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 33198,
+    "NAME": "АБс-923",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000137,
+    "ID_FACULTET": 3,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 33200,
+    "NAME": "АВТ-908",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000046,
+    "ID_FACULTET": 3,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 33201,
+    "NAME": "АВТ-917",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000046,
+    "ID_FACULTET": 3,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 33202,
+    "NAME": "АВТ-941",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000049,
+    "ID_FACULTET": 3,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 33210,
+    "NAME": "ФК-91",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000067,
+    "ID_FACULTET": 8,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 33211,
+    "NAME": "ФО-91",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000032,
+    "ID_FACULTET": 8,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 33212,
+    "NAME": "ФЛ-91",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000033,
+    "ID_FACULTET": 8,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 33213,
+    "NAME": "ФТ-91",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000005,
+    "ID_FACULTET": 8,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 33214,
+    "NAME": "ФФ-91",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000056,
+    "ID_FACULTET": 8,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 33215,
+    "NAME": "ФГ-91",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000045,
+    "ID_FACULTET": 8,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 33216,
+    "NAME": "ФО-91М",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000091,
+    "ID_FACULTET": 8,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 33217,
+    "NAME": "ФТ-91М",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000085,
+    "ID_FACULTET": 8,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 33219,
+    "NAME": "ФГ-91М",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000130,
+    "ID_FACULTET": 8,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 33221,
+    "NAME": "ФЛ-91М",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000130,
+    "ID_FACULTET": 8,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 33250,
+    "NAME": "ПММ-91",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000097,
+    "ID_FACULTET": 7,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 33251,
+    "NAME": "ПММ-92",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000097,
+    "ID_FACULTET": 7,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 33252,
+    "NAME": "ПМИ-91",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000003,
+    "ID_FACULTET": 7,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 33253,
+    "NAME": "ПМИ-92",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000003,
+    "ID_FACULTET": 7,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 33254,
+    "NAME": "ПМ-92",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000002,
+    "ID_FACULTET": 7,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 33255,
+    "NAME": "ПМ-91",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000002,
+    "ID_FACULTET": 7,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 33257,
+    "NAME": "ПМ-93",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000002,
+    "ID_FACULTET": 7,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 33258,
+    "NAME": "ПМИМ-91",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000131,
+    "ID_FACULTET": 7,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 33260,
+    "NAME": "ПМ-95",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000002,
+    "ID_FACULTET": 7,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 33270,
+    "NAME": "СЛ-92",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000011,
+    "ID_FACULTET": 10,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 33271,
+    "NAME": "Ф-93",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000010,
+    "ID_FACULTET": 10,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 33272,
+    "NAME": "Ф-94",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000010,
+    "ID_FACULTET": 10,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 33274,
+    "NAME": "ИЯ-97",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000057,
+    "ID_FACULTET": 10,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 33275,
+    "NAME": "ИЯ-95",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000057,
+    "ID_FACULTET": 10,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 33276,
+    "NAME": "ИЯ-96",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000057,
+    "ID_FACULTET": 10,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 33278,
+    "NAME": "РГМ-93",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000093,
+    "ID_FACULTET": 10,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 33279,
+    "NAME": "ПлМ-91",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000126,
+    "ID_FACULTET": 10,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 33280,
+    "NAME": "СЛ-91",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000011,
+    "ID_FACULTET": 10,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 33281,
+    "NAME": "РГ-91",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000009,
+    "ID_FACULTET": 10,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 33282,
+    "NAME": "РГ-92",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000009,
+    "ID_FACULTET": 10,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 33283,
+    "NAME": "РГ-93",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000009,
+    "ID_FACULTET": 10,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 33284,
+    "NAME": "ИЯ-91",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000057,
+    "ID_FACULTET": 10,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 33285,
+    "NAME": "ИЯ-92",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000057,
+    "ID_FACULTET": 10,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 33288,
+    "NAME": "Ф-91",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000010,
+    "ID_FACULTET": 10,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 33289,
+    "NAME": "РГМ-91",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000093,
+    "ID_FACULTET": 10,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 33290,
+    "NAME": "СЛМ-91",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000105,
+    "ID_FACULTET": 10,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 33291,
+    "NAME": "ПОм-91",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 1822,
+    "ID_FACULTET": 10,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 33293,
+    "NAME": "Фм-92",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000108,
+    "ID_FACULTET": 10,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 33294,
+    "NAME": "Фм-91",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000108,
+    "ID_FACULTET": 10,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 33295,
+    "NAME": "РГ-94",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000009,
+    "ID_FACULTET": 10,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 33296,
+    "NAME": "ИЯ-93",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000057,
+    "ID_FACULTET": 10,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 33297,
+    "NAME": "ИЯ-94",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000057,
+    "ID_FACULTET": 10,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 33298,
+    "NAME": "РГ-95",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000009,
+    "ID_FACULTET": 10,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 33300,
+    "NAME": "Ф-92",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000010,
+    "ID_FACULTET": 10,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 33301,
+    "NAME": "АБ-829",
+    "COURSE_NUM": 3,
+    "SPECIALITY_ID": 10000017,
+    "ID_FACULTET": 3,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 33302,
+    "NAME": "АБ-728",
+    "COURSE_NUM": 4,
+    "SPECIALITY_ID": 10000017,
+    "ID_FACULTET": 3,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 33381,
+    "NAME": "ЭЭз-92",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000021,
+    "ID_FACULTET": 9,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 33382,
+    "NAME": "ЭТз-91",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000020,
+    "ID_FACULTET": 9,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 33383,
+    "NAME": "ЭЭз-91",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000021,
+    "ID_FACULTET": 9,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 33385,
+    "NAME": "ЭЭМз-91",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000061,
+    "ID_FACULTET": 9,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 33510,
+    "NAME": "зФБММ-92",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000077,
+    "ID_FACULTET": 2,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 33511,
+    "NAME": "зФБММ-93",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000077,
+    "ID_FACULTET": 2,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 33513,
+    "NAME": "зФБЭМ-91",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000102,
+    "ID_FACULTET": 2,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 33514,
+    "NAME": "зФБЭМ-92",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000102,
+    "ID_FACULTET": 2,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 33515,
+    "NAME": "ЭКМз-91",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000077,
+    "ID_FACULTET": 2,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 33530,
+    "NAME": "ЭММз-91",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000061,
+    "ID_FACULTET": 1,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 33531,
+    "NAME": "ЭМАз-61",
+    "COURSE_NUM": 5,
+    "SPECIALITY_ID": 10000040,
+    "ID_FACULTET": 1,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 33532,
+    "NAME": "ЭМз-61",
+    "COURSE_NUM": 5,
+    "SPECIALITY_ID": 10000021,
+    "ID_FACULTET": 1,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 33533,
+    "NAME": "ЭМз-65",
+    "COURSE_NUM": 5,
+    "SPECIALITY_ID": 10000021,
+    "ID_FACULTET": 1,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 33630,
+    "NAME": "ВзФБ-611",
+    "COURSE_NUM": 5,
+    "SPECIALITY_ID": 10000013,
+    "ID_FACULTET": 2,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 33631,
+    "NAME": "ВзФБ-621",
+    "COURSE_NUM": 5,
+    "SPECIALITY_ID": 10000013,
+    "ID_FACULTET": 2,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 33690,
+    "NAME": "зФБММ-91",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000077,
+    "ID_FACULTET": 2,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 33710,
+    "NAME": "ПЛМ-91а",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000126,
+    "ID_FACULTET": 10,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 33731,
+    "NAME": "РТз-63",
+    "COURSE_NUM": 5,
+    "SPECIALITY_ID": 10000036,
+    "ID_FACULTET": 4,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 33770,
+    "NAME": "СЛ-93",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000011,
+    "ID_FACULTET": 10,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 33790,
+    "NAME": "ФБ-95",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000014,
+    "ID_FACULTET": 2,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 33930,
+    "NAME": "АВТ-907",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000046,
+    "ID_FACULTET": 3,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 33931,
+    "NAME": "ТЭ-93у",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000020,
+    "ID_FACULTET": 9,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 33932,
+    "NAME": "ЭНМ2-91у",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000061,
+    "ID_FACULTET": 9,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 33950,
+    "NAME": "ЭММ-99",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000061,
+    "ID_FACULTET": 1,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 33970,
+    "NAME": "ЭМА-93",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000040,
+    "ID_FACULTET": 1,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34010,
+    "NAME": "ИЯ-98",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000057,
+    "ID_FACULTET": 10,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34011,
+    "NAME": "РГ-96",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000009,
+    "ID_FACULTET": 10,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34052,
+    "NAME": "ФБИ-02",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000015,
+    "ID_FACULTET": 2,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34055,
+    "NAME": "ФБИ-01",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000015,
+    "ID_FACULTET": 2,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34059,
+    "NAME": "ФБЭ-01",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000013,
+    "ID_FACULTET": 2,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34060,
+    "NAME": "ФБЭ-02",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000013,
+    "ID_FACULTET": 2,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34061,
+    "NAME": "ФБЭ-03",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000013,
+    "ID_FACULTET": 2,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34062,
+    "NAME": "ФБЭ-04",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000013,
+    "ID_FACULTET": 2,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34063,
+    "NAME": "ФБ-03",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000014,
+    "ID_FACULTET": 2,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34066,
+    "NAME": "ФБ-01",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000014,
+    "ID_FACULTET": 2,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34067,
+    "NAME": "ФБ-02",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000014,
+    "ID_FACULTET": 2,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34068,
+    "NAME": "ФБ-04",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000014,
+    "ID_FACULTET": 2,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34069,
+    "NAME": "ФБЭБС-01",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 1741,
+    "ID_FACULTET": 2,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34070,
+    "NAME": "ФБЭБС-02",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 1741,
+    "ID_FACULTET": 2,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34071,
+    "NAME": "ФБМ-03",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000077,
+    "ID_FACULTET": 2,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34072,
+    "NAME": "ФБЭМ-06",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000102,
+    "ID_FACULTET": 2,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34074,
+    "NAME": "ФБМ-06",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000077,
+    "ID_FACULTET": 2,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34076,
+    "NAME": "ФБЭМ-05",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000102,
+    "ID_FACULTET": 2,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34086,
+    "NAME": "ФБТХМ-01",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000110,
+    "ID_FACULTET": 2,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34087,
+    "NAME": "ФБТХ-01",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000053,
+    "ID_FACULTET": 2,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34088,
+    "NAME": "ФБТХ-02",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000053,
+    "ID_FACULTET": 2,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34091,
+    "NAME": "ЭК-01",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000014,
+    "ID_FACULTET": 2,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34096,
+    "NAME": "ФБИ-03",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000015,
+    "ID_FACULTET": 2,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34098,
+    "NAME": "ФБМТ-01",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000014,
+    "ID_FACULTET": 2,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34102,
+    "NAME": "ФБ-05",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000014,
+    "ID_FACULTET": 2,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34103,
+    "NAME": "ФБк-01",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000014,
+    "ID_FACULTET": 2,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34150,
+    "NAME": "ФГ-01",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000045,
+    "ID_FACULTET": 8,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34151,
+    "NAME": "ФГ-01М",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000130,
+    "ID_FACULTET": 8,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34170,
+    "NAME": "АИСМ-19",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000100,
+    "ID_FACULTET": 3,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34191,
+    "NAME": "зФБММ-03",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000077,
+    "ID_FACULTET": 2,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34251,
+    "NAME": "зФБПМ-93",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000077,
+    "ID_FACULTET": 2,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34290,
+    "NAME": "КМ-120",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000026,
+    "ID_FACULTET": 5,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34291,
+    "NAME": "ПСФ-01",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000007,
+    "ID_FACULTET": 21,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34292,
+    "NAME": "КХ-120",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000051,
+    "ID_FACULTET": 5,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34293,
+    "NAME": "КХ-220",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000051,
+    "ID_FACULTET": 5,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34294,
+    "NAME": "ХТ-120",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000050,
+    "ID_FACULTET": 5,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34295,
+    "NAME": "ХТ-220",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000050,
+    "ID_FACULTET": 5,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34310,
+    "NAME": "КП-120",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000040,
+    "ID_FACULTET": 5,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34311,
+    "NAME": "Маг-120",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000128,
+    "ID_FACULTET": 5,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34314,
+    "NAME": "Маг-520",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000086,
+    "ID_FACULTET": 5,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34315,
+    "NAME": "Маг-620",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000086,
+    "ID_FACULTET": 5,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34316,
+    "NAME": "Маг-720",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000086,
+    "ID_FACULTET": 5,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34317,
+    "NAME": "ММ-120",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000022,
+    "ID_FACULTET": 5,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34318,
+    "NAME": "МП-120",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000024,
+    "ID_FACULTET": 5,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34319,
+    "NAME": "МтР-120",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000041,
+    "ID_FACULTET": 5,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34320,
+    "NAME": "НТ-120",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000027,
+    "ID_FACULTET": 5,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34321,
+    "NAME": "ТА-120",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000030,
+    "ID_FACULTET": 5,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34322,
+    "NAME": "ТМ-120",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000026,
+    "ID_FACULTET": 5,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34323,
+    "NAME": "ТХ-120",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000054,
+    "ID_FACULTET": 5,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34330,
+    "NAME": "СДМ-01",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 1801,
+    "ID_FACULTET": 6,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34331,
+    "NAME": "ТСМ-01",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000130,
+    "ID_FACULTET": 6,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34332,
+    "NAME": "СЭ-01",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000055,
+    "ID_FACULTET": 6,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34333,
+    "NAME": "ТС-01",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000045,
+    "ID_FACULTET": 6,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34334,
+    "NAME": "ПС-01",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000025,
+    "ID_FACULTET": 6,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34335,
+    "NAME": "СА-01",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000029,
+    "ID_FACULTET": 6,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34336,
+    "NAME": "СД-01",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000132,
+    "ID_FACULTET": 6,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34337,
+    "NAME": "С-01",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000028,
+    "ID_FACULTET": 6,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34338,
+    "NAME": "МА-01",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000062,
+    "ID_FACULTET": 6,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34339,
+    "NAME": "ПС-02",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000025,
+    "ID_FACULTET": 6,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34340,
+    "NAME": "МБ-01",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000055,
+    "ID_FACULTET": 6,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34341,
+    "NAME": "ГС-01",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000159,
+    "ID_FACULTET": 6,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34342,
+    "NAME": "МВ-01",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000062,
+    "ID_FACULTET": 6,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34343,
+    "NAME": "ЭП-01",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000134,
+    "ID_FACULTET": 6,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34344,
+    "NAME": "АУМ-01",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000129,
+    "ID_FACULTET": 6,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34345,
+    "NAME": "ГСМ-01",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000074,
+    "ID_FACULTET": 6,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34346,
+    "NAME": "ПСМ-01",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000109,
+    "ID_FACULTET": 6,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34347,
+    "NAME": "САМ-01",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000113,
+    "ID_FACULTET": 6,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34348,
+    "NAME": "СМ-01",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000074,
+    "ID_FACULTET": 6,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34349,
+    "NAME": "СЭМ-01",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000119,
+    "ID_FACULTET": 6,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34350,
+    "NAME": "С-02",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000028,
+    "ID_FACULTET": 6,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34351,
+    "NAME": "МБМ-01",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000119,
+    "ID_FACULTET": 6,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34352,
+    "NAME": "МР-01",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000039,
+    "ID_FACULTET": 6,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34390,
+    "NAME": "РТСМ-01",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000127,
+    "ID_FACULTET": 4,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34391,
+    "NAME": "РТ5-01",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000036,
+    "ID_FACULTET": 4,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34392,
+    "NAME": "РК6-01",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000038,
+    "ID_FACULTET": 4,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34393,
+    "NAME": "РТС9-01",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000037,
+    "ID_FACULTET": 4,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34394,
+    "NAME": "РТВ14-02",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000037,
+    "ID_FACULTET": 4,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34395,
+    "NAME": "РКС10-01",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000037,
+    "ID_FACULTET": 4,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34396,
+    "NAME": "РНТ1-01",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000044,
+    "ID_FACULTET": 4,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34397,
+    "NAME": "РМС7-01",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000044,
+    "ID_FACULTET": 4,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34398,
+    "NAME": "РЭН2-01",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000035,
+    "ID_FACULTET": 4,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34399,
+    "NAME": "РТС9-02",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000037,
+    "ID_FACULTET": 4,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34401,
+    "NAME": "РЭ3-01",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000035,
+    "ID_FACULTET": 4,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34402,
+    "NAME": "РТВ14-01",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000037,
+    "ID_FACULTET": 4,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34403,
+    "NAME": "РКС10-02",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000037,
+    "ID_FACULTET": 4,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34405,
+    "NAME": "РТВМ-01",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000127,
+    "ID_FACULTET": 4,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34407,
+    "NAME": "РМС-01",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000076,
+    "ID_FACULTET": 4,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34408,
+    "NAME": "РММ2-01",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000089,
+    "ID_FACULTET": 4,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34409,
+    "NAME": "РКМ-01",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000073,
+    "ID_FACULTET": 4,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34410,
+    "NAME": "РТМ-03",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000095,
+    "ID_FACULTET": 4,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34411,
+    "NAME": "РТМ-02",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000095,
+    "ID_FACULTET": 4,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34412,
+    "NAME": "РП4-02",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000035,
+    "ID_FACULTET": 4,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34414,
+    "NAME": "РЭМ-01",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000089,
+    "ID_FACULTET": 4,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34415,
+    "NAME": "РПМ-01",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000089,
+    "ID_FACULTET": 4,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34416,
+    "NAME": "РКСМ-01",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000127,
+    "ID_FACULTET": 4,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34417,
+    "NAME": "РНМ-01",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000076,
+    "ID_FACULTET": 4,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34418,
+    "NAME": "РП4-01",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000035,
+    "ID_FACULTET": 4,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34450,
+    "NAME": "ЭМ-03",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000021,
+    "ID_FACULTET": 1,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34452,
+    "NAME": "ЭММ-01",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000061,
+    "ID_FACULTET": 1,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34453,
+    "NAME": "ЭММ-02",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000061,
+    "ID_FACULTET": 1,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34454,
+    "NAME": "ЭМ-07",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000021,
+    "ID_FACULTET": 1,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34455,
+    "NAME": "ЭМ-02",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000021,
+    "ID_FACULTET": 1,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34456,
+    "NAME": "ЭМ-05",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000021,
+    "ID_FACULTET": 1,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34458,
+    "NAME": "ЭМА-02",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000040,
+    "ID_FACULTET": 1,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34459,
+    "NAME": "ЭММ-03",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000061,
+    "ID_FACULTET": 1,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34460,
+    "NAME": "ЭММА-01",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000129,
+    "ID_FACULTET": 1,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34462,
+    "NAME": "ЭММ-09",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000061,
+    "ID_FACULTET": 1,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34463,
+    "NAME": "ЭМА-01",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000040,
+    "ID_FACULTET": 1,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34464,
+    "NAME": "ЭММ-04",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000061,
+    "ID_FACULTET": 1,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34465,
+    "NAME": "ЭМ-01",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000021,
+    "ID_FACULTET": 1,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34466,
+    "NAME": "ЭМА-03",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000040,
+    "ID_FACULTET": 1,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34470,
+    "NAME": "ФБЭМ-01",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000102,
+    "ID_FACULTET": 2,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34490,
+    "NAME": "ПММ-01",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000097,
+    "ID_FACULTET": 7,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34491,
+    "NAME": "ПММ-02",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000097,
+    "ID_FACULTET": 7,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34492,
+    "NAME": "ПММ-03",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000097,
+    "ID_FACULTET": 7,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34493,
+    "NAME": "ФА-01М",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000095,
+    "ID_FACULTET": 8,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34494,
+    "NAME": "ФК-01",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000067,
+    "ID_FACULTET": 8,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34495,
+    "NAME": "ФО-01",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000032,
+    "ID_FACULTET": 8,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34496,
+    "NAME": "ФЛ-01",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000033,
+    "ID_FACULTET": 8,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34497,
+    "NAME": "ФТ-01",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000005,
+    "ID_FACULTET": 8,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34498,
+    "NAME": "ФФ-01",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000056,
+    "ID_FACULTET": 8,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34499,
+    "NAME": "ФО-01М",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000091,
+    "ID_FACULTET": 8,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34503,
+    "NAME": "ФЛ-01М",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000130,
+    "ID_FACULTET": 8,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34510,
+    "NAME": "ЭМАз-01",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000040,
+    "ID_FACULTET": 1,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34550,
+    "NAME": "АП-027",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000048,
+    "ID_FACULTET": 3,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34551,
+    "NAME": "АП-026",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000048,
+    "ID_FACULTET": 3,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34552,
+    "NAME": "АИСМ-20",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000100,
+    "ID_FACULTET": 3,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34554,
+    "NAME": "АПМ-20",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000092,
+    "ID_FACULTET": 3,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34555,
+    "NAME": "АО-02",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000034,
+    "ID_FACULTET": 3,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34556,
+    "NAME": "АБс-022",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000137,
+    "ID_FACULTET": 3,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34557,
+    "NAME": "АБМ-20",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000098,
+    "ID_FACULTET": 3,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34558,
+    "NAME": "АТ-04",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000047,
+    "ID_FACULTET": 3,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34559,
+    "NAME": "АПМ2-20",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000092,
+    "ID_FACULTET": 3,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34560,
+    "NAME": "АВТ-043",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000049,
+    "ID_FACULTET": 3,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34561,
+    "NAME": "АВТ-042",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000049,
+    "ID_FACULTET": 3,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34562,
+    "NAME": "АВТ-009",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000046,
+    "ID_FACULTET": 3,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34563,
+    "NAME": "АВТ-010",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000046,
+    "ID_FACULTET": 3,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34564,
+    "NAME": "АВТ-018",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000046,
+    "ID_FACULTET": 3,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34565,
+    "NAME": "АВТ-019",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000046,
+    "ID_FACULTET": 3,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34566,
+    "NAME": "АММ-20",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000098,
+    "ID_FACULTET": 3,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34567,
+    "NAME": "АПИМ-20",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000081,
+    "ID_FACULTET": 3,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34568,
+    "NAME": "АИ-02",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000031,
+    "ID_FACULTET": 3,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34569,
+    "NAME": "АТ-03",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000047,
+    "ID_FACULTET": 3,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34570,
+    "NAME": "АБ-020",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000017,
+    "ID_FACULTET": 3,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34571,
+    "NAME": "АБ-021",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000017,
+    "ID_FACULTET": 3,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34572,
+    "NAME": "АСМ-20",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000098,
+    "ID_FACULTET": 3,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34574,
+    "NAME": "АВТ-013",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000046,
+    "ID_FACULTET": 3,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34575,
+    "NAME": "АВТ-012",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000046,
+    "ID_FACULTET": 3,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34576,
+    "NAME": "АА-06",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000039,
+    "ID_FACULTET": 3,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34577,
+    "NAME": "АА-07",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000039,
+    "ID_FACULTET": 3,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34578,
+    "NAME": "ААМ-20",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000129,
+    "ID_FACULTET": 3,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34579,
+    "NAME": "АИМ-20",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000100,
+    "ID_FACULTET": 3,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34580,
+    "NAME": "АОМ-20",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000075,
+    "ID_FACULTET": 3,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34582,
+    "NAME": "АБс-023",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000137,
+    "ID_FACULTET": 3,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34583,
+    "NAME": "АММ2-20",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000098,
+    "ID_FACULTET": 3,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34584,
+    "NAME": "АВТ-008",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000046,
+    "ID_FACULTET": 3,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34586,
+    "NAME": "АВТ-041",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000049,
+    "ID_FACULTET": 3,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34591,
+    "NAME": "И-02",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 2004,
+    "ID_FACULTET": 21,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34592,
+    "NAME": "ВИ-01",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000046,
+    "ID_FACULTET": 21,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34594,
+    "NAME": "И-01",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 2004,
+    "ID_FACULTET": 21,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34595,
+    "NAME": "Д-05",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 1662,
+    "ID_FACULTET": 21,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34596,
+    "NAME": "АФ-01",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 1666,
+    "ID_FACULTET": 21,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34597,
+    "NAME": "П-01",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 100003,
+    "ID_FACULTET": 21,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34598,
+    "NAME": "КН-01",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000069,
+    "ID_FACULTET": 21,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34601,
+    "NAME": "СР-01",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000012,
+    "ID_FACULTET": 21,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34603,
+    "NAME": "Б-01",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10408085,
+    "ID_FACULTET": 21,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34604,
+    "NAME": "С-01",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 1761,
+    "ID_FACULTET": 21,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34606,
+    "NAME": "Д-02",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 1664,
+    "ID_FACULTET": 21,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34607,
+    "NAME": "К-01",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 1665,
+    "ID_FACULTET": 21,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34670,
+    "NAME": "ПМИ-01",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000003,
+    "ID_FACULTET": 7,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34671,
+    "NAME": "ПМИ-02",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000003,
+    "ID_FACULTET": 7,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34672,
+    "NAME": "ПМ-02",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000002,
+    "ID_FACULTET": 7,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34673,
+    "NAME": "ПМ-01",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000002,
+    "ID_FACULTET": 7,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34674,
+    "NAME": "ПМ-04",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000002,
+    "ID_FACULTET": 7,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34675,
+    "NAME": "ПМ-03",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000002,
+    "ID_FACULTET": 7,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34676,
+    "NAME": "ПМИМ-01",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000131,
+    "ID_FACULTET": 7,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34677,
+    "NAME": "ПМ-05",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000002,
+    "ID_FACULTET": 7,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34678,
+    "NAME": "ПМИ-03",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000003,
+    "ID_FACULTET": 7,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34690,
+    "NAME": "П-01",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000006,
+    "ID_FACULTET": 10,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34691,
+    "NAME": "П-02",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000006,
+    "ID_FACULTET": 10,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34692,
+    "NAME": "ИЯ-08",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000057,
+    "ID_FACULTET": 10,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34693,
+    "NAME": "СЛ-02",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000011,
+    "ID_FACULTET": 10,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34694,
+    "NAME": "Ф-03",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000010,
+    "ID_FACULTET": 10,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34697,
+    "NAME": "ИЯ-07",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000057,
+    "ID_FACULTET": 10,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34698,
+    "NAME": "ИЯ-05",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000057,
+    "ID_FACULTET": 10,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34699,
+    "NAME": "ИЯ-06",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000057,
+    "ID_FACULTET": 10,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34701,
+    "NAME": "РГМ-03",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000093,
+    "ID_FACULTET": 10,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34702,
+    "NAME": "ПлМ-01",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000126,
+    "ID_FACULTET": 10,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34703,
+    "NAME": "СЛ-01",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000011,
+    "ID_FACULTET": 10,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34704,
+    "NAME": "РГ-01",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000009,
+    "ID_FACULTET": 10,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34705,
+    "NAME": "РГ-02",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000009,
+    "ID_FACULTET": 10,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34706,
+    "NAME": "РГ-03",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000009,
+    "ID_FACULTET": 10,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34707,
+    "NAME": "ИЯ-01",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000057,
+    "ID_FACULTET": 10,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34708,
+    "NAME": "ИЯ-02",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000057,
+    "ID_FACULTET": 10,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34710,
+    "NAME": "Ф-01",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000010,
+    "ID_FACULTET": 10,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34711,
+    "NAME": "РГМ-01",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000093,
+    "ID_FACULTET": 10,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34712,
+    "NAME": "СЛМ-01",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000105,
+    "ID_FACULTET": 10,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34713,
+    "NAME": "ПОм-01",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 1822,
+    "ID_FACULTET": 10,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34715,
+    "NAME": "Фм-02",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000108,
+    "ID_FACULTET": 10,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34716,
+    "NAME": "Фм-01",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000108,
+    "ID_FACULTET": 10,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34718,
+    "NAME": "ИЯ-03",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000057,
+    "ID_FACULTET": 10,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34719,
+    "NAME": "ИЯ-04",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000057,
+    "ID_FACULTET": 10,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34720,
+    "NAME": "РГ-05",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000009,
+    "ID_FACULTET": 10,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34723,
+    "NAME": "ПЛМ-02",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000126,
+    "ID_FACULTET": 10,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34754,
+    "NAME": "ЭН1-95",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10000021,
+    "ID_FACULTET": 9,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34759,
+    "NAME": "ЭН1-02",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000021,
+    "ID_FACULTET": 9,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34760,
+    "NAME": "ЭН2-04",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000021,
+    "ID_FACULTET": 9,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34761,
+    "NAME": "ТЭ-01",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000020,
+    "ID_FACULTET": 9,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34762,
+    "NAME": "ЭнБ-01",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000055,
+    "ID_FACULTET": 9,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34763,
+    "NAME": "ЭН1-01",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000021,
+    "ID_FACULTET": 9,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34765,
+    "NAME": "ЭН2-01",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000021,
+    "ID_FACULTET": 9,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34766,
+    "NAME": "ЭН2-02",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000021,
+    "ID_FACULTET": 9,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34768,
+    "NAME": "ТЭМ-01",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000116,
+    "ID_FACULTET": 9,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34769,
+    "NAME": "ЭНМ1-01",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000061,
+    "ID_FACULTET": 9,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34770,
+    "NAME": "ЭНМ1-02",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000061,
+    "ID_FACULTET": 9,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34771,
+    "NAME": "ЭНМ2-01",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000061,
+    "ID_FACULTET": 9,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34772,
+    "NAME": "ЭНМ1-03",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000061,
+    "ID_FACULTET": 9,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34774,
+    "NAME": "ЭНМЭ-01",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000061,
+    "ID_FACULTET": 9,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34778,
+    "NAME": "ЭНМ2-03",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000061,
+    "ID_FACULTET": 9,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34779,
+    "NAME": "ЭнБМ-01",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000119,
+    "ID_FACULTET": 9,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34780,
+    "NAME": "ТЭ-02",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000020,
+    "ID_FACULTET": 9,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34781,
+    "NAME": "ТЭ-03у",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000020,
+    "ID_FACULTET": 9,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34783,
+    "NAME": "ЭН1-05",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000021,
+    "ID_FACULTET": 9,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34790,
+    "NAME": "ПВ-01",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000006,
+    "ID_FACULTET": 10,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34893,
+    "NAME": "зФБЭМ-04",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000102,
+    "ID_FACULTET": 2,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34931,
+    "NAME": "ЭЭз-02",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000021,
+    "ID_FACULTET": 9,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34932,
+    "NAME": "ЭТз-01",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000020,
+    "ID_FACULTET": 9,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34933,
+    "NAME": "ЭЭз-01",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000021,
+    "ID_FACULTET": 9,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34935,
+    "NAME": "ЭЭМз-01",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000061,
+    "ID_FACULTET": 9,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34950,
+    "NAME": "ИЗ-01",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 2004,
+    "ID_FACULTET": 21,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 34970,
+    "NAME": "ЭМА-83",
+    "COURSE_NUM": 3,
+    "SPECIALITY_ID": 10000040,
+    "ID_FACULTET": 1,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 35030,
+    "NAME": "ФБ-85",
+    "COURSE_NUM": 3,
+    "SPECIALITY_ID": 10000014,
+    "ID_FACULTET": 2,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 35050,
+    "NAME": "РТз-73",
+    "COURSE_NUM": 4,
+    "SPECIALITY_ID": 10000036,
+    "ID_FACULTET": 4,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 35070,
+    "NAME": "И-03",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 2004,
+    "ID_FACULTET": 21,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 35090,
+    "NAME": "Б-82",
+    "COURSE_NUM": 3,
+    "SPECIALITY_ID": 10408085,
+    "ID_FACULTET": 21,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 35091,
+    "NAME": "Б-92",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 10408085,
+    "ID_FACULTET": 21,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 35094,
+    "NAME": "И-93",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 2004,
+    "ID_FACULTET": 21,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 35095,
+    "NAME": "И-94",
+    "COURSE_NUM": 2,
+    "SPECIALITY_ID": 2004,
+    "ID_FACULTET": 21,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 35110,
+    "NAME": "ЭМз-71",
+    "COURSE_NUM": 4,
+    "SPECIALITY_ID": 10000021,
+    "ID_FACULTET": 1,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 35111,
+    "NAME": "ЭМАз-71",
+    "COURSE_NUM": 4,
+    "SPECIALITY_ID": 10000040,
+    "ID_FACULTET": 1,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 35317,
+    "NAME": "Б-02",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10408085,
+    "ID_FACULTET": 21,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 35319,
+    "NAME": "И-04",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 2004,
+    "ID_FACULTET": 21,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 35470,
+    "NAME": "ГС-02",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000159,
+    "ID_FACULTET": 6,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 35630,
+    "NAME": "ЭНМ1-04",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000061,
+    "ID_FACULTET": 9,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 35670,
+    "NAME": "И-05",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 2004,
+    "ID_FACULTET": 21,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 35850,
+    "NAME": "АБ-024",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000017,
+    "ID_FACULTET": 3,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 35910,
+    "NAME": "П-03",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000006,
+    "ID_FACULTET": 10,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 35950,
+    "NAME": "ЭММз-02",
+    "COURSE_NUM": 1,
+    "SPECIALITY_ID": 10000061,
+    "ID_FACULTET": 1,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 36150,
+    "NAME": "ЭМз-75",
+    "COURSE_NUM": 4,
+    "SPECIALITY_ID": 10000021,
+    "ID_FACULTET": 1,
+    "PD_TYPE": 0
+  },
+  {
+    "ID": 36750,
+    "NAME": "ЭЭз-63",
+    "COURSE_NUM": 5,
+    "SPECIALITY_ID": 10000021,
+    "ID_FACULTET": 9,
+    "PD_TYPE": 0
+  }
+]
